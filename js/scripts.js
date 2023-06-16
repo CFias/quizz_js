@@ -214,4 +214,3 @@ function hideOrShowQuizz() {
 
 // Inicialização
 init();
-
